@@ -13,3 +13,6 @@ Speech recognition using the interface of the Web Speech API
 1. SpeechRecognition.jsを静的リソース(Static Resource)に「SpeechRecognition」という名前で登録します。
 1. SpeechRecognitionExample.vfpをVisualforceページとして登録します。
 1. 当該Visualforceページを開いて、「撮影」と発話してみてください。コンソールログに「シャッターを切りました」と表示されます。
+
+## 補足
+VisualforceというのはSalesforce上で動作するマークアップ言語です。Salesforce周りの仕事をしているので、そこで動かせるサンプルとして作っています。
